@@ -2867,11 +2867,11 @@ input, select, textarea {
 				}
 
 			.main.style2 h1, .main.style2 h2, .main.style2 h3, .main.style2 h4, .main.style2 h5, .main.style2 h6, .main.style2 strong, .main.style2 b {
-				color: #ffffff;
+				color: rgb(155, 252, 9);
 			}
 
 			.main.style2 header p {
-				color: #ffffff;
+				color: rgb(247, 4, 194);
 			}
 
 			.main.style2 header.major:after {
